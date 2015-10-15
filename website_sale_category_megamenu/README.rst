@@ -47,6 +47,10 @@ Contributors
 * Rafael Blasco <rafaelbn@antiun.com>
 * Jairo Llopis <yajo.sk8@gmail.com>
 
+-------------
+This addon is based on this article (http://codyhouse.co/?p=409) at CodyHouse
+-------------
+
 Maintainer
 ----------
 
